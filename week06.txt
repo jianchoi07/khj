@@ -11,3 +11,10 @@ git log -- online
 2교시
 
 리눅스 명령어
+...
+
+깃명령어
+git fetch
+git pull
+>>>>>>>7eb4dbc (HEAD -> main, origin/main, origin/HEAD) 클라우드서비스 1학년 6주차 ii
+ce170f9b6fc11f000d297e6d32992d1b1e4ab5abcee769c009f6adaa0db5c4b
